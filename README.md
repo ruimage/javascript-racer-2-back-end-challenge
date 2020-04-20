@@ -20,7 +20,7 @@
 
 Далее выложите ваш проект на Heroku и поделитесь сссылкой с друзьями.
 
-[Пример](https://github.com/ehpc/heroku-websocket), который работает на heroku.
+[Пример](https://github.com/ehpc/heroku-websocket), который работает на Heroku.
 
 
 ## Releases
